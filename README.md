@@ -16,13 +16,13 @@
 ---
 
 ### 👥 Team Information (Qualifier Submission)
-- **Team Name:** `[Your Team Name]` *(Update before final push)*
+- **Team Name:** **VYOM**
 - **Team Members:**
-  - `Member 1` (Lead / AI Architecture) — `[GitHub Handle / Email]`
-  - `Member 2` (Document Processing & OCR) — `[GitHub Handle / Email]`
-  - `Member 3` (Backend & GST Rule Engine) — `[GitHub Handle / Email]`
-  - `Member 4` (UI & Integration) — `[GitHub Handle / Email]`
-- **Repository URL:** `https://github.com/[username]/vyomflow-gst-intelligence`
+  - **Ishanya Kejriwal** (Lead / AI & System Architecture) — [@Goldengrab](https://github.com/Goldengrab)
+  - **Jhanavi Shukla** (Document Intelligence & OCR Pipeline) — [@jhanavishukla](https://github.com/jhanavishukla)
+  - **Vaibhav Kumar Sharma** (Backend & GST Rule Engine) — [@VibeBhav8](https://github.com/VibeBhav8)
+  - **Monish Shastrakar** (Full-Stack & UI/UX Integration) — [@Monishshastrakar](https://github.com/Monishshastrakar)
+- **Repository URL:** `https://github.com/Goldengrab/vyomflow-gst-intelligence`
 
 ---
 
